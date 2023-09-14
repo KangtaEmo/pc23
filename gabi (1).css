@@ -1,0 +1,37 @@
+ .tvxq
+
+h1 {
+    text-align:center;
+    background-color: rgb(238, 191, 191);
+}
+h3{
+    font-style: oblique;
+    background-color: rgb(160, 160, 230);
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(210, 185, 233);
+}
+.tvxq {
+    width: 250px;
+}
+.tvxq {
+    background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+}
+.lista {
+        display: inline-block;
+        padding: 10%;
+        margin-right: 20%;
+    }
