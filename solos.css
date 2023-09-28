@@ -1,0 +1,37 @@
+.solos
+
+h1 {
+    text-align:center;
+    background-color: rgb(255, 8, 201);
+}
+h3{
+    font-style: oblique;
+    background-color: rgb(255, 0, 191);
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(236, 75, 223);
+}
+.solos {
+    width: 250px;
+}
+.solos {
+    background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+}
+.lista {
+        display: inline-block;
+        padding: 10%;
+        margin-right: 20%;
+    }
