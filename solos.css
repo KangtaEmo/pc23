@@ -2,11 +2,11 @@
 
 h1 {
     text-align:center;
-    background-color: rgb(255, 8, 201);
+    background-color: rgb(206, 255, 218);
 }
 h3{
     font-style: oblique;
-    background-color: rgb(255, 0, 191);
+    background-color: rgb(206, 255, 218);
 }
 
 p {
@@ -18,10 +18,10 @@ strong {
 }
 
 body {
-    background-color: rgb(236, 75, 223);
+    background-color: rgb(206, 255, 218);
 }
 .solos {
-    width: 250px;
+    width: 300px;
 }
 .solos {
     background-color: forestgreen

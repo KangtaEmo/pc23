@@ -2,11 +2,11 @@
 
 h1 {
     text-align:center;
-    background-color: rgb(255, 8, 201);
+    background-color: rgb(219, 138, 213);
 }
 h3{
     font-style: oblique;
-    background-color: rgb(255, 0, 191);
+    background-color: rgb(219, 138, 213);
 }
 
 p {
@@ -18,7 +18,7 @@ strong {
 }
 
 body {
-    background-color: rgb(236, 75, 223);
+    background-color: rgb(219, 138, 213);
 }
 .jyj {
     width: 250px;
